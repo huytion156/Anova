@@ -1,4 +1,4 @@
-__HANOVA - FARMER ASSISTANCE WITH AIR CHECK-ER NETWORK__
+﻿__HANOVA - FARMER ASSISTANCE WITH AIR CHECK-ER NETWORK__
 ######EMOBILE PASTORALISM CHALLENGE – NASA'S SPACE APPS CHALLENGES 2016######
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -44,3 +44,4 @@ Birthday: 15-06-1997
 15CNTN - Ho Chi Minh University of Science
 
 Email: huynhvonhathuy@gmail.com
+       huytion156@gmail.com
